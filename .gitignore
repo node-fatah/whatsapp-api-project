@@ -1,0 +1,12 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore folders related to WhatsApp Web JS
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Ignore sensitive files
+credentials.json
+
+# Optional: Ignore package-lock.json
+package-lock.json
